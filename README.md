@@ -55,7 +55,6 @@ This repository contains the Python implementation, numerical analyses, and grap
 
 The model is a theoretical mathematical framework. Its parameter values are used for computational investigation and are not fitted to experimental cellular data. The results should therefore be interpreted as mathematical findings within the specified model, rather than empirical evidence of a particular biological mechanism.
 
-
 ## License
 
 License information will be added separately.
